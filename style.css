@@ -1,0 +1,27 @@
+body {
+    background: rgb(40, 44, 52);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#ConsumptionChart {
+    width: 49%;
+    height: 50%;
+    text-align: center;
+    background: rgb(33, 37, 43);
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#UsageChart {
+    width: 49%;
+    height: 50%;
+    text-align: center;
+    background: rgb(33, 37, 43);
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+}
+
